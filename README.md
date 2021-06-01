@@ -1,11 +1,5 @@
 ## Hi 👋
 
-Most of my professional programs are closed-source, here you'll find code developed during my free time.
-
-Specialized in C and Python, but fiddled with most mainstream languages (and less mainstream ones!)
-
-Started to program in 2008, still learning every day.
-
 <hr/>
 
 ## Favorites
