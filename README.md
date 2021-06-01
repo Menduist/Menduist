@@ -2,7 +2,7 @@
 
 <hr/>
 
-## Favorites
+## My favorites
 
 #### Languages
 <p>
